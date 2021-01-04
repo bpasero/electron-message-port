@@ -1,0 +1,1 @@
+console.log('hello from renderer 1');

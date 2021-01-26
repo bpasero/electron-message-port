@@ -13,6 +13,7 @@ function createWindow() {
   })
 
   // and load the index.html of the app.
+  // add some comment.
   mainWindow1.loadFile('index1.html')
 
   const mainWindow2 = new BrowserWindow({
